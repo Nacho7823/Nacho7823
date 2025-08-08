@@ -1,8 +1,12 @@
 <h1 align="center"><b>Hi, I'm Nachooo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 ###### Currently studying...
+
+<div>
+  
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="225" height="225" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+
 <br>
 
 ```diff
@@ -13,7 +17,7 @@
 @@ 💻 extremely curious @@
 
 ```
-
+</div>
 <br>
 
 **About me**
